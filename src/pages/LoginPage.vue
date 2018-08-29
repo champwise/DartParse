@@ -1,5 +1,5 @@
 <template>
-   <f7-page>
+   <f7-page theme-dark>
     <AppHeader></AppHeader>
 
     <f7-block>

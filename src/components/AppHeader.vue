@@ -1,5 +1,5 @@
 <template>
-<f7-navbar  title="DartParse"></f7-navbar>
+<f7-navbar  title="DartParse" theme-dark></f7-navbar>
 </template>
 <script>
 export default {
